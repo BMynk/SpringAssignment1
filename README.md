@@ -23,6 +23,9 @@ Built exactly to the assignment specification (Part A + Part B).
 
 ---
 
+
+**Members:** Mgoqi Aphelele (Leader), Ngcebo Mxolisi Bhengu, Mbanga Onwaba, Mtimba Misokuhle, Yeboah Mishael Kwaku, Zimase Afika
+
 ### 📊 Project Structure (Auto Dark Mode)
 
 ```mermaid
